@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(to left, #00ff00, #0000ff);
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+h3 {
+    text-transform: none;
+    letter-spacing: 0.01em;
+}
+
+input {
+    margin: 1rem 1rem;
+}
